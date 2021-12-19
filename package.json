@@ -1,0 +1,19 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "Luis molina",
+  "main": "src/app",
+  "scripts": {
+    "start": "npx nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15",
+    "sequelize": "^6.12.0-beta.1"
+  }
+}
